@@ -1,3 +1,24 @@
 # MaxContributionCalculator
 
-The Max Contribution Room Calculator for Tax-Free Savings Accounts (TFSA) is a user-friendly tool designed to help Canadians accurately determine their available TFSA contribution room. By entering essential details such as the year they turned 18, their total TFSA deposits, and any withdrawals from their account, users can calculate their current maximum allowable contribution. The calculator automatically accounts for annual TFSA limits set by the government and adjusts for unused contribution room carried forward, giving a clear overview of how much more can be contributed without incurring penalties. Ideal for financial planning and maximizing tax-free investment growth!
+The Max Contribution Room Calculator for Tax-Free Savings Accounts (TFSA) is an intuitive and user-friendly tool designed specifically for Canadians. This calculator enables users to accurately determine their available TFSA contribution room, ensuring they make the most of their tax-free investment opportunities.
+
+## Features
+• Easy Input: Users can input essential details such as:
+
+    • The year they turned 18
+  
+    • Total TFSA deposits made
+  
+    • Any withdrawals from their account
+  
+• Automatic Calculations: The calculator automatically considers:
+
+    • Annual TFSA contribution limits set by the government
+    
+    • Unused contribution room carried forward from previous years
+     
+• **Clear Overview:** It provides users with a straightforward summary of their current maximum allowable contribution, helping them understand how much more they can contribute without incurring any penalties.
+
+## Benefits
+
+This tool is ideal for financial planning, allowing users to maximize their tax-free investment growth effectively. Whether you're just starting to invest or looking to optimize your existing savings, the Max Contribution Room Calculator empowers you to make informed decisions about your TFSA contributions.
