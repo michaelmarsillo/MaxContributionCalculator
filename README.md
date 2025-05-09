@@ -1,6 +1,7 @@
 # MaxContributionCalculator
 
 The Max Contribution Room Calculator for Tax-Free Savings Accounts (TFSA) is an intuitive and user-friendly tool designed specifically for Canadians. This calculator enables users to accurately determine their available TFSA contribution room, ensuring they make the most of their tax-free investment opportunities.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Features
 • Easy Input: Users can input essential details such as:
