@@ -4,7 +4,7 @@ The Max Contribution Room Calculator for Tax-Free Savings Accounts (TFSA) is an 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Features
-• Easy Input: Users can input essential details such as:
+Easy Input: Users can input essential details such as:
 
     • The year they turned 18
   
@@ -12,13 +12,13 @@ The Max Contribution Room Calculator for Tax-Free Savings Accounts (TFSA) is an 
   
     • Any withdrawals from their account
   
-• Automatic Calculations: The calculator automatically considers:
+  Automatic Calculations: The calculator automatically considers:
 
     • Annual TFSA contribution limits set by the government
     
     • Unused contribution room carried forward from previous years
      
-• **Clear Overview:** It provides users with a straightforward summary of their current maximum allowable contribution, helping them understand how much more they can contribute without incurring any penalties.
+**Clear Overview:** It provides users with a straightforward summary of their current maximum allowable contribution, helping them understand how much more they can contribute without incurring any penalties.
 
 ## Benefits
 
